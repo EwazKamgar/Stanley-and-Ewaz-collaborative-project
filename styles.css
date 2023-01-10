@@ -1,0 +1,9 @@
+img {
+    position: relative;
+    
+    max-width: 100%;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    
+}
